@@ -20,11 +20,9 @@
 
 ---
 
-## ⚡ What I'm Building
+## ⚡ About
 
-I like building things that do more than just work — projects that explore how backend systems behave under real-world conditions, from concurrent processing to real-time communication.
-
-My main playground is **Go**, with a focus on APIs, system design, asynchronous workflows, and reliable services.
+Backend Developer specializing in **Golang, REST API development, and scalable backend systems**. Interested in building reliable services, real-time applications, and efficient asynchronous processing systems.
 
 ## 🚀 Featured Projects
 
@@ -44,7 +42,7 @@ A real-time chat application with a Go backend and a React + TypeScript frontend
 - 🐘 Persistent data with PostgreSQL
 - 🔴 Redis Pub/Sub for cross-instance messaging
 
-<a href="https://github.com/purangoswami2001">View project on GitHub →</a>
+<a href="https://github.com/purangoswami2001/pulsechat">View project on GitHub →</a>
 
 </td>
 <td width="50%" valign="top">
@@ -101,11 +99,7 @@ A webhook delivery service built with Go, PostgreSQL, and Redis. It explores asy
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=purangoswami2001&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile view counter" />
 
-<br/>
-
-*Good software is built one thoughtful commit at a time.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
 
